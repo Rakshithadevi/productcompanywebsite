@@ -300,11 +300,152 @@ OCTYPE html>
     </div>
   </body>
 </html>
+
+```
+## Layout:
+```
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: rgba(14, 5, 5, 0.295);
+  color: #17421d;
+}
+.container {
+  width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 1px 1px 1px 1px;
+  border-style: solid;
+  box-shadow: 15px 15px 8px gray;
+}
+
+.banner {
+  display: block;
+  width: 100%;
+  height: 250px;
+  text-align: center;
+  font-size: 60px;
+  background-image: url(C:/Users/raksh/Documents/webtechnology/productcompanywebsite/companywebsite/static/img/banner1.jpeg);
+  background-size: 100% 100%;
+  margin: 0px 0px 0px 0px;
+  padding-top: 150px;
+  color: #d6d1d8;
+}
+
+.menu {
+  display: block;
+  width: 100%;
+  height: 50px;
+  font-size: larger;
+  background-color: #5f0970;
+  text-align: center;
+  padding-top: 15px;
+  margin: 0px 0px 0px 0px;
+  border-width: 1px;
+}
+
+.menuitem {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.menuitemselected {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #20091b;
+}
+
+.menuitem a {
+  text-decoration: none;
+  color: #e7dbdc;
+}
+
+.content {
+  display: block;
+  width: 100%;
+  background-color: #e6dce7;
+  min-height: 500px;
+  margin: 0px 0px 0px 0px;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+}
+.homecontent {
+  min-height: 500px;
+  margin: 10px 10px 10px 10px;
+}
+.homecontent h1 {
+  text-align: left;
+}
+.homecontent img {
+  float: right;
+  width: 400px;
+  height: 300px;
+  margin-left: 10px;
+}
+
+.contenttext {
+  text-align: justify;
+}
+
+.productcontent {
+  min-height: 500px;
+  margin: 10px 10px 10px 10px;
+}
+
+.productcontent h1 {
+  text-align: left;
+}
+
+.productitems {
+  display: block;
+}
+
+.productitem {
+  display: inline-block;
+  width: 30%;
+  height: 250px;
+  text-align: center;
+}
+
+.productitem img {
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.productitem .itemimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  margin-bottom: 5px;
+}
+
+.productitem .itemname {
+  display: block;
+}
+.productitem .itemprice {
+  display: block;
+}
+
+.footer {
+  display: block;
+  width: 100%;
+  height: 40px;
+  background-color:#5d086e;
+  text-align: center;
+  padding-top: 10px;
+  margin: 0px 0px 0px 0px;
+  color: #16080a;
+}
 ```
 # OUTPUT:
 
 ## HomePage:
-![Github Logo](/productcompanywebsite/\companywebsite\static\img\homeout.PNG)
+![Github Logo](/productcompanywebsite/companywebsite/static/img/homeout.PNG)
 ## ProductsPage:
 ![Github Logo](/productcompanywebsite/companywebsite/static/img/productout.PNG)
 ## PeoplePage:
