@@ -445,13 +445,13 @@ body {
 # OUTPUT:
 
 ## HomePage:
-![output](/productcompanywebsite/companywebsite/static/img/homeout.png)
+![output](./companywebsite/static/img/homeout.png)
 ## ProductsPage:
-![output](/productcompanywebsite/companywebsite/static/img/productout.PNG)
+![output](./companywebsite/static/img/productout.PNG)
 ## PeoplePage:
-![output](/productcompanywebsite/companywebsite/static/img/peopleout.PNG)
+![output](./companywebsite/static/img/peopleout.PNG)
 ## Contactus Page:
-![output](/productcompanywebsite/companywebsite/static/img/contactout.PNG)
+![output](./companywebsite/static/img/contactout.PNG)
 
 ## Result:
 
