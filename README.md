@@ -445,13 +445,13 @@ body {
 # OUTPUT:
 
 ## HomePage:
-![Github Logo](/productcompanywebsite/companywebsite/static/img/homeout.PNG)
+![output](/productcompanywebsite/companywebsite/static/img/homeout.PNG)
 ## ProductsPage:
-![Github Logo](/productcompanywebsite/companywebsite/static/img/productout.PNG)
+![output](/productcompanywebsite/companywebsite/static/img/productout.PNG)
 ## PeoplePage:
-![Github Logo](/productcompanywebsite/companywebsite/static/img/peopleout.PNG)
+![output](/productcompanywebsite/companywebsite/static/img/peopleout.PNG)
 ## Contactus Page:
-![Github Logo](/productcompanywebsite/companywebsite/static/img/contactout.PNG)
+![output](/productcompanywebsite/companywebsite/static/img/contactout.PNG)
 
 ## Result:
 
