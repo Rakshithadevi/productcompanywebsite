@@ -304,13 +304,13 @@ OCTYPE html>
 # OUTPUT:
 
 ## HomePage:
-![output](C:\Users\raksh\Documents\webtechnology\productcompanywebsite\companywebsite\static\img\homeout.PNG)
+![Github Logo](/productcompanywebsite/\companywebsite\static\img\homeout.PNG)
 ## ProductsPage:
-![output](./images/product.jpg)
+![Github Logo](/productcompanywebsite/companywebsite/static/img/productout.PNG)
 ## PeoplePage:
-![output](./images/people.jpg)
+![Github Logo](/productcompanywebsite/companywebsite/static/img/peopleout.PNG)
 ## Contactus Page:
-![output](./images/contact_us.jpg)
+![Github Logo](/productcompanywebsite/companywebsite/static/img/contactout.PNG)
 
 ## Result:
 
