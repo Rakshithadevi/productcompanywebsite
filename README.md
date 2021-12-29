@@ -445,7 +445,7 @@ body {
 # OUTPUT:
 
 ## HomePage:
-![Github Logo](./companywebsite/static/img/homeout.png)
+![output](./companywebsite/static/img/homeout.PNG)
 ## ProductsPage:
 ![output](./companywebsite/static/img/productout.PNG)
 ## PeoplePage:
