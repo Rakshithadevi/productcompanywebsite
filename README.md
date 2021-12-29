@@ -445,7 +445,7 @@ body {
 # OUTPUT:
 
 ## HomePage:
-![output](./companywebsite/static/img/homeout.png)
+![output](companywebsite/static/img/homeout.png)
 ## ProductsPage:
 ![output](./companywebsite/static/img/productout.PNG)
 ## PeoplePage:
